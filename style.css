@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Serif+Display:ital@0;1&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img1 {
+  width: 650px;
+  height: 659px;
+  position: absolute;
+  margin-left: 500px;
+}
+.modern {
+  position: absolute;
+  margin-left: 200px;
+  width: 314px;
+  height: 156px;
+  font-size: 76px;
+  font-weight: 900;
+  line-height: 88px;
+  text-align: left;
+  color: white;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.rect {
+  width: 500px;
+  height: 659px;
+  background-color: Black;
+  position: absolute;
+}
+.title1 {
+  width: 350px;
+  height: 160px;
+  top: 190px;
+  left: 925px;
+  gap: 0px;
+  opacity: 0px;
+  color: #444444;
+  position: absolute;
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-left: 120px;
+}
+.button1 {
+  width: 204px;
+  height: 62px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #151515;
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 1045px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loc {
+  color: white;
+  font-size: 20px;
+}
+.button2 {
+  width: 56px;
+  height: 62px;
+  top: 414px;
+  left: 1129px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #d5966c;
+  position: absolute;
+  margin-top: -64px;
+  margin-left: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arrow {
+  color: white;
+}
+.your_day {
+  position: absolute;
+  color: black;
+  margin-top: 900px;
+  margin-left: 220px;
+  width: 350px;
+  height: 120px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Big Shoulders Display;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 60px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.title2 {
+  position: absolute;
+  margin-top: 970px;
+  color: #444444;
+  width: 350px;
+  height: 128px;
+  top: 152px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-left: 220px;
+}
+.rect1 {
+  width: 635px;
+  height: 400px;
+  position: absolute;
+  margin-top: 900px;
+  margin-left: 750px;
+}
+.rect2 {
+  width: 635px;
+  height: 720px;
+  top: 1410px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  margin-top: -70px;
+}
+.rect4 {
+  width: 560px;
+  height: 380px;
+  top: 1410px;
+  left: 830px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  margin-top: -70px;
+  margin-left: -5px;
+}
+.rect5 {
+  position: absolute;
+  width: 560px;
+  height: 307px;
+  top: 1753px;
+  left: 830px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #151515;
+  margin-left: -5px;
+}
+.inspired {
+  width: 350px;
+  height: 120px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Big Shoulders Display;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 60px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: white;
+  margin-left: 70px;
+  margin-top: 40px;
+}
+.title3 {
+  width: 350px;
+  height: 96px;
+  top: 152px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: white;
+  margin-top: 30px;
+  margin-left: 70px;
+}
+footer {
+  width: 1518px;
+  height: 244px;
+  top: 2310px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #151515;
+  position: absolute;
+  margin-top: -60px;
+  display: flex;
+  flex-direction: row;
+}
+.modern_art {
+  margin-top: 100px;
+  margin-left: 170px;
+  width: 159.57px;
+  height: 58px;
+  gap: 0px;
+  opacity: 0px;
+}
+.title4 {
+  width: 430px;
+  height: 84px;
+  left: 300px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: white;
+  margin-left: 170px;
+  margin-top: 90px;
+}
+.group_9 {
+  width: 100px;
+  height: 20px;
+  top: 2390px;
+  left: 1175px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
